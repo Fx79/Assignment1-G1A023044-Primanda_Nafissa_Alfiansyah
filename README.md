@@ -1,4 +1,4 @@
-# Assignment1-G1A023044-Primanda_Nafissa_Alfiansyah
+# Penjelasan
 
 ## Assignment1_1
 1. perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1. Jika i kurang dari 100. maka variabel i ditambah.
@@ -26,4 +26,11 @@
  ```sh
    Scanner sc = new Scanner(System.in);
    ```
-2. 
+2. Menyimpan angka yang input oleh pengguna
+```sh
+   int number;
+   ```
+3. Menyimpan total jumlah bilangan positif
+```sh
+   int sum = 0;
+   ```
